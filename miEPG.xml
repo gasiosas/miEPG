@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 22/03/2025 11:30" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 22/03/2025 20:38" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -30,27 +30,31 @@
   </programme>
   <programme start="20250322113000 +0100" stop="20250322121800 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Españoles en el mundo T1 · Cabo Verde</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países.
-</desc>
+    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7 | *2.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 1.
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250322121800 +0100" stop="20250322130600 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Españoles en el mundo T2 · Tanzania</title>
     <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
 · Programa que viaja por todo el mundo a través de emigrantes españoles en otros países.
-</desc>
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250322130600 +0100" stop="20250322135500 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Españoles en el mundo T3 · Namibia</title>
     <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
 · De la mano de ocho españoles, el programa muestra la belleza de Namibia.
-</desc>
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250322135500 +0100" stop="20250322150000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">D Corazón T2 E23</title>
     <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP
 · Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-</desc>
+· País: España
+· Presenta: Anne Igartiburu, Jordi González.</desc>
   </programme>
   <programme start="20250322150000 +0100" stop="20250322154500 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -70,7 +74,7 @@
   <programme start="20250322155000 +0100" stop="20250322173500 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">The Lost Husband</title>
     <desc lang="es">Cine/Drama | 2020 | +7 | *6.0/10
-· Después de la muerte de su esposo, Libby y sus hijos se mudan a la granja de su tía en Texas. Votos: 16.
+· Después de la muerte de su esposo, Libby y sus hijos se mudan a la granja de su tía en Texas. Votos: 17.
 · País: EE.UU.
 · Dirección: Vicky Wight.
 · Reparto: Leslie Bibb, Josh Duhamel, Nora Dunn, Sharon Lawrence, Herizen F. Guardiola.
@@ -79,8 +83,8 @@
   </programme>
   <programme start="20250322173500 +0100" stop="20250322190000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Timadoras compulsivas</title>
-    <desc lang="es">Cine/Comedia | 2019 | +7 | *6.0/10
-· Cuando una timadora de poca monta conoce a una estafadora de élite, unen sus fuerzas y emplean técnicas descabelladas para conseguir la fortuna de un multimillonario. Votos: 25.
+    <desc lang="es">Cine/Comedia | 2019 | +16 | *6.0/10
+· Cuando una timadora de poca monta conoce a una estafadora de élite, unen sus fuerzas y emplean técnicas descabelladas para conseguir la fortuna de un multimillonario. Votos: 26.
 · Título original: The Hustle
 · País: EE.UU.
 · Dirección: Chris Addison.
@@ -91,8 +95,8 @@
   </programme>
   <programme start="20250322190000 +0100" stop="20250322210000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Cabriola</title>
-    <desc lang="es">Cine/Comedia | 1965 | +7 | *6.0/10
-· Cabriola es un excelente potro que pertenece a una traperilla que, para moverse mejor en el mundo que le rodea, se hace pasar por muchacho. Votos: 57.
+    <desc lang="es">Cine/Comedia | 1965 | TP | *6.0/10
+· Cabriola es un excelente potro que pertenece a una traperilla que, para moverse mejor en el mundo que le rodea, se hace pasar por muchacho. Votos: 58.
 · País: España
 · Dirección: Mel Ferrer.
 · Reparto: Francisco Camoiras, Jesús Guzmán, Juan Ramón Torremocha, José Marco Davó, Rafael de Córdoba, Ángel Peralta, José Sepúlveda, Marisol, Vala Cliffton.
@@ -135,7 +139,7 @@
   <programme start="20250322220500 +0100" stop="20250322234500 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">2 Guns</title>
     <desc lang="es">Cine/Acción | 2013 | +16 | *8.0/10
-· Tras no recibir de Papi Greco -el capo del cártel mexicano con el que colaboran- el pago acordado, Robert 'Bobby' Trench y Michael 'Stig' Stigman deciden atracar el banco en el que Papi ingresa el dinero todos los meses. Votos: 913.
+· Tras no recibir de Papi Greco -el capo del cártel mexicano con el que colaboran- el pago acordado, Robert 'Bobby' Trench y Michael 'Stig' Stigman deciden atracar el banco en el que Papi ingresa el dinero todos los meses. Votos: 914.
 · País: EE.UU.
 · Dirección: Baltasar Kormákur.
 · Reparto: Denzel Washington, Mark Wahlberg, Paula Patton, Bill Paxton, James Marsden, Fred Ward, Edward James Olmos, Robert John Burke.
@@ -147,7 +151,7 @@
   <programme start="20250322234500 +0100" stop="20250323015000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">La Roca</title>
     <desc lang="es">Cine/Acción | 1996 | +18 | *8.0/10
-· Un experto en armas químicas y un ex convicto son la única esperanza contra unos militares que han tomado la isla de Alcatraz. Votos: 377.
+· Un experto en armas químicas y un ex convicto son la única esperanza contra unos militares que han tomado la isla de Alcatraz. Votos: 378.
 · Título original: The Rock
 · País: EE.UU.
 · Dirección: Michael Bay.
@@ -370,19 +374,27 @@
     <title lang="es">Valle Salvaje T1 E123</title>
     <desc lang="es">Series/Telenovela | 2024 | +16
 · El duque sorprende a Mercedes con una noticia sobre su futuro con Victoria.
-</desc>
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20250324173500 +0100" stop="20250324182500 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">La Promesa T1 E558</title>
     <desc lang="es">Series/Drama | 2022 | +12
 · En 1913, una mujer, una venganza y una gran historia de amor.
-</desc>
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20250324182500 +0100" stop="20250324193000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">La Promesa T1 E559</title>
     <desc lang="es">Series/Drama | 2022 | +12
 · En 1913, una mujer, una venganza y una gran historia de amor.
-</desc>
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20250324193000 +0100" stop="20250324203000 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">El cazador T8 E418</title>
@@ -1124,7 +1136,10 @@
     <title lang="es">Arqueomanía: El día del juicio. Parte 2</title>
     <desc lang="es">Documentales/Historia | 2023 | TP | *6.0/10
 · La geografía española alberga preciados tesoros arqueológicos e históricos. Votos: 10.
-</desc>
+· País: España
+· Presenta: Manuel Pimentel.
+· Dirección: Manuel Pimentel.
+· Productora: La Nave del Tharsis, New Atlantis.</desc>
   </programme>
   <programme start="20250322135000 +0100" stop="20250322144000 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Tendido cero T24/25 E26</title>
@@ -1138,7 +1153,9 @@
     <title lang="es">Sabores del mundo T1 · Calabria hermosa y auténtica</title>
     <desc lang="es">Ocio y Aficiones/Viajes | 2021 | TP
 · Calabria es la región más pobre de Italia, ignorada por los turistas durante mucho tiempo.
-</desc>
+· Título original: Flavors (T1): Calabria
+· País: Francia
+· Presenta: Anatole De Bodinat.</desc>
   </programme>
   <programme start="20250322153000 +0100" stop="20250322161500 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Saber y ganar fin de semana T2025 E23</title>
@@ -1160,7 +1177,7 @@
 · Productora: Smithsonian Channel, Earth Touch.</desc>
   </programme>
   <programme start="20250322170200 +0100" stop="20250322175500 +0100" channel="La 2 Super Full HD 8k">
-    <title lang="es">Wild Taiwán: la isla de la selva · Taiwan salvatge, l'illa de la selva</title>
+    <title lang="es">Wild Taiwán: la isla de la selva</title>
     <desc lang="es">Documentales/Naturaleza | 2018 | TP | *6.0/10
 · Taiwán es una isla sin igual. Situada junto al trópico de Cáncer, esta pequeña porción de Asia contiene playas tropicales, bosques nubosos y montañas con cimas nevadas. Votos: 37.
 · Título original: Wild Taiwan: Jungle Island
@@ -1182,11 +1199,13 @@
     <title lang="es">Días de cine T24/25 E31</title>
     <desc lang="es">Cine/Programa de cine | 2025 | +12
 · Edición especial antesala de la gala de clausura del 28ª Festival de Málaga.
-</desc>
+· País: España
+· Dirección: Gerardo Sánchez.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20250322200000 +0100" stop="20250322213000 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Gala clausura Festival de Málaga</title>
-    <desc lang="es">Cine/Programa de cine | 2025 | *6.0/10
+    <desc lang="es">Cine/Programa de cine | 2025 | TP | *6.0/10
 · Emisión de la ceremonia de clausura del 28 Festival de Cine de Málaga, en la que se entregan los galardones a lo más destacado del cine español y se reconocen los logros artísticos alcanzados. Votos: 5.
 · País: España</desc>
   </programme>
@@ -1215,7 +1234,8 @@
     <title lang="es">Cachitos de hierro y cromo T12 · Multiversiones</title>
     <desc lang="es">Música/Programa de música | 2024 | TP | *8.0/10
 · Todas esas versiones que se han repetido a lo largo de los años en los programas musicales de TVE. Diferentes relecturas de un mismo tema, interpretadas por artistas de décadas distintas, con estilos radicalmente. Votos: 2.
-</desc>
+· País: España
+· Dirección: Jero Rodríguez.</desc>
   </programme>
   <programme start="20250323005800 +0100" stop="20250323015400 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Cachitos de hierro y cromo T12 · Bis</title>
